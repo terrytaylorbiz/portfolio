@@ -1,12 +1,6 @@
 # portfolio
 
-These are a few of the docs I (Terry Taylor, terrytaylorbiz@gmail.com) have written over the years.
-
-Note:
-1. These docs are not confidential (I have more interesting internal versions I could show you in person). 
-2. Many of these docs were for a very limited internal audience. 
-3. The focus was on useful, accurate content with a minimum of text and diagrams.
-4. 
+These are a few of the docs I have written over the years.  These docs are not confidential. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams.
 
 01_cit_doc_processes.pdf: Describes to an internal team how to transition to a new doc system.
 
