@@ -35,10 +35,6 @@ The client office was in a beautiful building on the banks of the Rhein river, a
 
 --------------------------------------------------------------
 
-01_cit_doc_processes.pdf: Describes how to transition to a new doc system.
-
---------------------------------------------------------------
-
 21_FGX_UG_20140307.pdf
 
 The product
@@ -78,11 +74,59 @@ As with every job experience in China I put together a few more pieces of the pu
 
 --------------------------------------------------------------
 
+01_cit_doc_processes.pdf: Describes how to transition to a new doc system.
+
+The task
+At HP Shanghai one of my tasks was to document a "synchronizer". The synchronizer was a program that would synchronize  database updates in systems A and B. My task was to document in detail how to configure a synchronizer between Service Center (SC) and Quality Center  (QC). 
+
+My activities
+I found a developer who helped me setup SC, QC, and the synchronizer in a VM on my own laptop. I then created  an example synchronization configurations and documented in detail.
+I tagged Framemaker text so that I could create a release and internal version of the document from the same source files. I like simple text processes that allow multiple versions of a file to be created from a single source file.
+
+The results
+The following is the release version of the document. 
+2_scqc_install_config_RELEASE.pdf 
+
+
+The following is the internal version.  I used the internal version to demonstrate synchronizer installation/configuration for a group of 20 programmers. 
+3_scqc_install_config_TRAINING.pdf
+
+The screenshots are all from my personal PC (I installed all software on my PC and created the simple examples myself).
+
+One of the other docs I wrote was
+xxxxx
+which described why we should switch to a new doc system.
+
+
+Why I left
+My first job in China was with a Taiwanese company, and then I worked for HP. I had the idea that I could find more interesting work with a "real" Chinese company, not realizing that the Taiwanese company and HP were some of the best employers you could find in China.
+
+
+
+--------------------------------------------------------------
+
 31_fw_v50_gs_v15_RELEASE_000719_0954.pdf
 32_afw_v50_ug_v24_RELEASE_000719_1040.pdf
 33_pfw_v50_ug_v17_RELEASE_000719_1024.pdf
 34_obf_v50_ug_v11_RELEASE_000719_0940.pdf
 35_fwj_r34v11_gs_v02_DRAFTRELEASE_990908_1615.pdf
+
+The product
+Mynd was developing frameworks for Java and Smalltalk.
+
+The task
+My job was to write the original docs.
+
+The challenges
+There were few challenges, except for learning the software. Mynd was a great company to work for.
+
+My activities
+I learned the software and wrote the docs.
+Why I left
+Mynd USA bought PMS Micado Germany which became Mynd Germany. Mynd's fortunes took a turn for the worse, the projects were drying up, so I moved on.
+
+
+
 
 --------------------------------------------------------------
 
