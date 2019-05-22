@@ -1,12 +1,9 @@
-# portfolio
+# Portfolio description
 
-GIVE ME A DAY OR TWO TO WRITE UP A DESCRIPTION OF THE DOCS ... TERRY TAYLOR (22 MAY 2019)
+These are a few of the docs I have written over the years. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams.
 
-These are a few of the docs I have written over the years.  These docs are not confidential. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams.
 
---------------------------------------------------------------
-
-11_AD_GS_20160803_0925 partial.pdf (half of the doc deleted to make it smaller) 
+### 11_AD_GS_20160803_0925 partial.pdf (half of the doc deleted to make it smaller) 
 
 The product --- AD (Automation Designer) was a PLM product that basically connected NX, EPLAN (electrical schematics) and TIA (PLC programming).
 
@@ -26,10 +23,9 @@ My activities ---
 The results --- The docs I created provide a lot of very useful info. Not only concepts, but critical details that you could only appreciate when actually trying to use a complex system like AD that was still under development. For example, in one dialog, if you left a space after an entry, the system would crash and your project that took 3-4 hours to build would be lost. 
 
 Why I left --- The client office was in a beautiful building on the banks of the Rhein river, and I lived 5 minutes by bike in a converted monastery. The office atmosphere was very socialable and friendly. It was one of the most pleasant places I have ever worked. And my employer Goetz und Weise was the best.  But AD was still in development and was quite a challenge to use. It would be years before the product would be ready for beta release. I asked many times to move to the office where the program/product managers were located, but this was not going to happen. There were several new writers who took the traditional approach to documenting such a system (lots of text and no examples), and it seemed that the client was quite satisfied with that approach. It was time to move on. One thing is for sure, any new writer who wanted to learn how AD actually worked would have saved months of effort by reading the docs I wrote.
-
---------------------------------------------------------------
-
-21_FGX_UG_20140307.pdf
+   
+     
+### 21_FGX_UG_20140307.pdf
 
 The product --- The product was a firewall/router that was sold under several brand names. The documentation was released in English, Japanese and Chinese.
 
@@ -57,12 +53,11 @@ happy that I might finally be included in their team discussions. He just wanted
 2. The company would not confirm if they would offer me a new contract until two months before my existing contract expired. 
 3. We had a small earthquake. Such an event made me think twice about spending so much time in a very large office building of obviously low construction quality.
 As with every job experience in China I put together a few more pieces of the puzzle that is China. 
-
---------------------------------------------------------------
-
-01_cit_doc_processes.pdf     
-02_scqc_install_config_RELEASE.pdf         
-03_scqc_install_config_TRAINING.pdf        
+   
+   
+### 01_cit_doc_processes.pdf     
+### 02_scqc_install_config_RELEASE.pdf         
+### 03_scqc_install_config_TRAINING.pdf        
 
 The task --- At HP Shanghai one of my tasks was to document a "synchronizer". The synchronizer was a program that would synchronize  database updates in systems A and B. My task was to document in detail how to configure a synchronizer between Service Center (SC) and Quality Center  (QC). 
 
@@ -74,13 +69,12 @@ One of the other docs I wrote was 01_cit_doc_processes.pdf. I inherited a very c
 
 Why I left --- My first job in China was with a Taiwanese company, and then I worked for HP. I had the idea that I could find more interesting work with a "real" Chinese company, not realizing that the Taiwanese company and HP were some of the best employers you could find in China. My mistake.
 
---------------------------------------------------------------
 
-31_fw_v50_gs_v15_RELEASE_000719_0954.pdf     
-32_afw_v50_ug_v24_RELEASE_000719_1040.pdf        
-33_pfw_v50_ug_v17_RELEASE_000719_1024.pdf         
-34_obf_v50_ug_v11_RELEASE_000719_0940.pdf      
-35_fwj_r34v11_gs_v02_DRAFTRELEASE_990908_1615.pdf         
+### 31_fw_v50_gs_v15_RELEASE_000719_0954.pdf     
+### 32_afw_v50_ug_v24_RELEASE_000719_1040.pdf        
+### 33_pfw_v50_ug_v17_RELEASE_000719_1024.pdf         
+### 34_obf_v50_ug_v11_RELEASE_000719_0940.pdf      
+### 35_fwj_r34v11_gs_v02_DRAFTRELEASE_990908_1615.pdf         
 
 The product --- Mynd was developing frameworks for Java and Smalltalk.
 
