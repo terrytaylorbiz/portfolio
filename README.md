@@ -2,7 +2,7 @@
 
 These are a few of the docs I have written over the years.  These docs are not confidential. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams.
 
-01_cit_doc_processes.pdf: Describes to an internal team how to transition to a new doc system.
+01_cit_doc_processes.pdf: Describes how to transition to a new doc system.
 
 11_AD_GS_20160803_0925 partial.pdf (half of the doc deleted to make it smaller): 
 
