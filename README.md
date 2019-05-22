@@ -1,5 +1,7 @@
 # portfolio
 
+GIVE ME A DAY OR TWO TO WRITE UP A DESCRIPTION OF THE DOCS ... TERRY TAYLOR (22 MAY 2019)
+
 These are a few of the docs I have written over the years.  These docs are not confidential. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams.
 
 01_cit_doc_processes.pdf: Describes how to transition to a new doc system.
