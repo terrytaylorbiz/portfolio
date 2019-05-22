@@ -60,9 +60,9 @@ As with every job experience in China I put together a few more pieces of the pu
 
 --------------------------------------------------------------
 
-01_cit_doc_processes.pdf
-02_scqc_install_config_RELEASE.pdf
-03_scqc_install_config_TRAINING.pdf
+01_cit_doc_processes.pdf     
+02_scqc_install_config_RELEASE.pdf         
+03_scqc_install_config_TRAINING.pdf        
 
 The task --- At HP Shanghai one of my tasks was to document a "synchronizer". The synchronizer was a program that would synchronize  database updates in systems A and B. My task was to document in detail how to configure a synchronizer between Service Center (SC) and Quality Center  (QC). 
 
@@ -76,11 +76,11 @@ Why I left --- My first job in China was with a Taiwanese company, and then I wo
 
 --------------------------------------------------------------
 
-31_fw_v50_gs_v15_RELEASE_000719_0954.pdf
-32_afw_v50_ug_v24_RELEASE_000719_1040.pdf
-33_pfw_v50_ug_v17_RELEASE_000719_1024.pdf
-34_obf_v50_ug_v11_RELEASE_000719_0940.pdf
-35_fwj_r34v11_gs_v02_DRAFTRELEASE_990908_1615.pdf
+31_fw_v50_gs_v15_RELEASE_000719_0954.pdf     
+32_afw_v50_ug_v24_RELEASE_000719_1040.pdf        
+33_pfw_v50_ug_v17_RELEASE_000719_1024.pdf         
+34_obf_v50_ug_v11_RELEASE_000719_0940.pdf      
+35_fwj_r34v11_gs_v02_DRAFTRELEASE_990908_1615.pdf         
 
 The product --- Mynd was developing frameworks for Java and Smalltalk.
 
