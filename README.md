@@ -55,7 +55,7 @@ happy that I might finally be included in their team discussions. He just wanted
 As with every job experience in China I put together a few more pieces of the puzzle that is China. 
    
    
-### 01_cit_doc_processes.pdf, 02/03_scqc_install_config_RELEASE/TRAINING.pdf         
+### 31_cit_doc_processes.pdf, 32/33_scqc_install_config_RELEASE/TRAINING.pdf         
 
 The task --- At HP Shanghai one of my tasks was to document a "synchronizer". The synchronizer was a program that would synchronize  database updates in systems A and B. My task was to document in detail how to configure a synchronizer between Service Center (SC) and Quality Center  (QC). 
 
@@ -68,7 +68,7 @@ One of the other docs I wrote was 01_cit_doc_processes.pdf. I inherited a very c
 Why I left --- My first job in China was with a Taiwanese company, and then I worked for HP. I had the idea that I could find more interesting work with a "real" Chinese company, not realizing that the Taiwanese company and HP were some of the best employers you could find in China. My mistake.
 
 
-### 31_fw.pdf, 32_afw.pdf, 33_pfw.pdf, 34_obf.pdf, 35_fwj.pdf         
+### 41_fw.pdf, 42_afw.pdf, 43_pfw.pdf, 44_obf.pdf, 45_fwj.pdf         
 
 The product --- Mynd was developing frameworks for Java and Smalltalk.
 
