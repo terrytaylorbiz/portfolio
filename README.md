@@ -27,6 +27,8 @@ Why I left --- The client office was in a beautiful building on the banks of the
      
 ### 21_FGX_UG.pdf
 
+** Please note: 21_FGX_UG.pdf was created from single-source source files. We created almost 15 different versions of this doc just for the English version (we also had Japanese and Chinese versions). Therefore there may be some diagrams or text with small formatting or alignment problems. Also, all diagrams and screenshots were modified to minimize the resulting PDF file size (the resulting PDF file size is rather small for such a large doc with so many diagrams). The priority was creating a lot of info with limited resources for very technical readers. We accomplished that.
+
 The product --- The product was a firewall/router that was sold under several brand names. The documentation was released in English, Japanese and Chinese.
 
 The task --- I was the documentation manager for a group of seven. 
