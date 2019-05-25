@@ -2,6 +2,8 @@
 
 These are a few of the docs I have written over the years. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams.
 
+Note: I also have "internal" versions of these docs that have a lot more background info, tech notes, etc. They also have URL's, usernames, and sometimes even passwords, so I don't post them on this site, but I could show you in person.
+
 
 ### 11_AD_GS_partial.pdf (half of the doc deleted to make it smaller) 
 
@@ -22,7 +24,7 @@ My activities ---
 
 The results --- The docs I created provide a lot of very useful info. Not only concepts, but critical details that you could only appreciate when actually trying to use a complex system like AD that was still under development. For example, in one dialog, if you left a space after an entry, the system would crash and your project that took 3-4 hours to build would be lost. 
 
-Why I left --- The client office was in a beautiful building on the banks of the Rhein river, and I lived 5 minutes by bike in a converted abbey. The office atmosphere was very socialable and friendly. It was one of the most pleasant places I have ever worked. And my employer Goetz und Weise was the best.  But AD was still in development and was quite a challenge to use. It would be years before the product was ready for beta release. I asked many times to move to the office where the program/product managers were located, but this was not going to happen. There were several new writers who took the traditional approach to documenting such a system (lots of text and no examples), and it seemed that the client was quite satisfied with that approach. It was time to move on. One thing is for sure, any new writer who wanted to learn how AD actually worked would have saved months of effort by reading the docs I wrote.
+Why I left --- The client office was in a beautiful building on the banks of the Rhein river, and I lived 5 minutes by bike in a converted abbey. The office atmosphere was very socialable and friendly. It was one of the most pleasant places I have ever worked. And my employer Goetz und Weise was the best.  But AD was still in development and was quite a challenge to use. It would be years before the product was ready for beta release. And I had basically hit the wall with AD; it was so complicated to do the most basic things that without a lot of help from the PM's I did not see how I could make much more progress. I asked many times to move to the office where the program/product managers were located, but this was not going to happen. Finally, there were several new writers who took the traditional approach to documenting such a system (lots of text and no examples), and it seemed that the client was quite satisfied with that approach. It was time to move on, and G&W did not have a different project for me. One thing is for sure, any new writer who wanted to learn how AD actually worked would have saved months of effort by reading the docs I wrote.
    
      
 ### 21_FGX_UG.pdf
@@ -55,7 +57,7 @@ happy that I might finally be included in their team discussions. He just wanted
 2. The company would not confirm if they would offer me a new contract until two months before my existing contract expired. My visa to stay in China was with this company, so if they did not offer a new contract, I probably would have had to return to the USA to get a new visa.
 3. We had a small earthquake. Such an event made me think twice about spending so much time in a very large office building of obviously low construction quality.
 
-As with every job experience in China I put together a few more pieces of the puzzle that is China. 
+Note: The PM asking me to teach his kid English really sums up why I eventually left China. I had always thought I could have an interesting career in China by learning Chinese and then working as a team member in a Chinese company. Things never worked out that way.     
    
    
 ### 31_cit_doc_processes.pdf, 32/33_scqc_install_config_RELEASE/TRAINING.pdf         
@@ -68,7 +70,7 @@ The results --- The release version is 02_scqc_install_config_RELEASE.pdf. I use
 
 I also wrote 01_cit_doc_processes.pdf. I inherited a very complex doc project that was run on a VM in Paris, and converted to work on a local machine. This doc describes how to switch to a new doc system.
 
-Why I left --- My first job in China was with a Taiwanese company and my second job was with HP. I had the idea that I could find more interesting work with a "real" Chinese company, not realizing that the Taiwanese company and HP were some of the best employers you could find in China. My mistake.
+Why I left --- My first job in China was with a Taiwanese company and my second job was with HP. I had the idea that I could find more interesting work with a "real" Chinese company, not realizing that the Taiwanese company and HP were some of the best employers for a Westerner in China. My mistake.
 
 
 ### 41_fw.pdf, 42_afw.pdf, 43_pfw.pdf, 44_obf.pdf, 45_fwj.pdf         
