@@ -52,8 +52,7 @@ The results ---
 2. Several team members could manage the Framemaker single-source projects. There were very few problems (it was a clean design). 
 
 Why I left --- It was a great experience. In particular my Chinese manager and the team were very friendly and helpful. But I left because of the following reasons.
-1. After a year and half, one of the project/product managers from Beijing actually came by to talk to me. I was so 
-happy that I might finally be included in their team discussions. He just wanted to ask me if I could teach his kid English.
+1. After a year and half, one of the project/product managers from Beijing actually came by to talk to me (I had sent emails to 3 PM's for a year, and never once, not once, did I ever get a reply). I was so happy that I might finally be included in their team discussions. He just wanted to ask me if I could teach his kid English.
 2. The company would not confirm if they would offer me a new contract until two months before my existing contract expired. My visa to stay in China was with this company, so if they did not offer a new contract, I probably would have had to return to the USA to get a new visa.
 3. We had a small earthquake. Such an event made me think twice about spending so much time in a very large office building of obviously low construction quality.
 
@@ -70,7 +69,7 @@ The results --- The release version is 02_scqc_install_config_RELEASE.pdf. I use
 
 I also wrote 01_cit_doc_processes.pdf. I inherited a very complex doc project that was run on a VM in Paris, and converted to work on a local machine. This doc describes how to switch to a new doc system.
 
-Why I left --- My first job in China was with a Taiwanese company and my second job was with HP. I had the idea that I could find more interesting work with a "real" Chinese company, not realizing that the Taiwanese company and HP were some of the best employers for a Westerner in China. My mistake.
+Why I left --- My first job in China was with a Taiwanese company and my second job was with HP. There were some real challenges working with the local staff. I thought that I could find more interesting work with a "real" Chinese company that would really appreciate the special insight I could provide to projects that targeted western markets. I was wrong. I later realized that the Taiwanese company and HP were some of the best employers for a Westerner in China.
 
 
 ### 41_fw.pdf, 42_afw.pdf, 43_pfw.pdf, 44_obf.pdf, 45_fwj.pdf         
