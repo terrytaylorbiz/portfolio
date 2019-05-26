@@ -5,7 +5,9 @@ These are a few of the docs I have written over the years. The target audience w
 Note: I also have "internal" versions of these docs that have a lot more background info, tech notes, etc. They also have URL's, usernames, and sometimes even passwords, so I don't post them on this site, but I could show you in person.
 
 
-### 11_AD_GS_partial.pdf (half of the doc deleted to make it smaller) 
+### 11_AD_GS_partial.pdf 
+
+Note: This doc was created in a Siemens doc tool. I had little control over the pic formats, so the resulting PDF was big. Git complained, so I deleted the latter half of the doc.
 
 The product --- AD (Automation Designer) was a PLM product that basically connected NX, EPLAN (electrical schematics) and TIA (PLC programming).
 
