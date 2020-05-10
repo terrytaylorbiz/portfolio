@@ -1,4 +1,4 @@
-Note: On May 10, 2020, I added github.com/terrytaylorbiz/selfstarter that shows a good example of my working style. These are not released documents, but rather a bunch of internal documents I put together while doing internal background research (with no assistance) into various doc portal technologies.
+Note: On May 10, 2020, I added some [examples of my self-starter working style](https://github.com/terrytaylorbiz/selfstarter). These are a set of internal documents I wrote while doing background research (with no assistance) into various doc portal technologies.
 
 # Portfolio description
 
