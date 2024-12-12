@@ -1,33 +1,26 @@
-Note: On May 10, 2020, I added some [examples of my self-starter working style](https://github.com/terrytaylorbiz/selfstarter). These are a set of internal documents I wrote in 2019 while doing background research (with no assistance) into various doc portal technologies.
-
-# Portfolio description
-
-These are a few of the docs I have written over the years. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams.
-
-Note: I also have "internal" versions of these docs that have a lot more background info, tech notes, etc. They also have URL's, usernames, and sometimes even passwords, so I don't post them on this site, but I could show you in person.
+I wrote the following documents. The design, structure, and content are my own. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams. I also have "internal" versions of these docs that have a lot more background info, tech notes, etc. 
 
 ### 11_AD_GS_partial.pdf 
 
-Note: This doc was created in a Siemens doc tool. I had little control over the pic formats, so the resulting PDF was big. Git complained, so I deleted half of the doc.
+Note: This doc was created in a Siemens doc tool. I had little control over the pic formats, so the resulting PDF was very large. Git complained, so I deleted half of the doc.
 
-The product --- AD (Automation Designer) was a PLM product that basically connected NX, EPLAN (electrical schematics) and TIA (PLC programming).
+The product was Automation Designer, a PLM product that connected NX, EPLAN (electrical schematics) and TIA (PLC programming). I wrote the installation guides and user guides. 
 
-The task --- I was to write installation guides and user guides for AD. 
-
-The challenges ---
+#### The challenges
 1. As a contractor, I could not use client computers, access the client internal network, or sit near client employees. I was supposed to access the product via a very slow remote connection. From a practical perspective, this made the job impossible.
 2. The client tech writers had little interest in how AD actually worked. The existing user guide was just a rehashed version of a software spec. The client tech writers were in the office only one day a week. 
 3. The program and product managers were at a different location. I was supposed to work with developers who had little understanding of the big picture or how to create end user applications.
-4. The Siemens documentation system (similar to Schema ST4) was great for managing large numbers of huge documents, but was not easy to use.
+4. The Siemens documentation system (similar to Schema ST4) was great for managing large numbers of large documents, but was not easy to use.
 
-My activities ---
-1. After several months I got permission to use a client computer, the internal network, and sit beside the developers.
-2. I installed (with a lot of assistance) AD, EPLAN and TIA on my own PC. I spent months learning how to use them and how to use AD to link them together. I also did a lot of hands on examples （I had very little assistance with these example apps).
-3. I created internal MS Word docs that described very accurately and in great detail how to get started with AD. The AD_GS_partial.pdf shown in this portfolio is a "distilled" version created with the client's doc system (I have an internal version with a lot of extra details that I could show in person). Note that this doc system limited my abilities to create diagrams and control formatting.
+#### My activities
+1. After several months I managed to get permission to use a client computer, the internal network, and sit beside the developers.
+2. I installed AD, EPLAN and TIA on my own PC. I spent months learning how to use them and how to use AD to link them together. I also did a lot of hands on examples I had very little assistance with these example apps).
+3. I created internal MS Word docs that described very accurately and in great detail how to get started with AD. The AD_GS_partial.pdf shown in this portfolio is a "distilled" version created with the client's documentation system (I have an internal version with a lot of extra details). The client documentation system limited my ability to create diagrams and control formatting.
 
-The results --- The docs I created provide a lot of very useful info, including concepts and critical details that you could only appreciate when actually trying to use a complex system like AD that was still under development (for example, in one dialog if you left a space after an entry the system would crash and your project that took 3-4 hours to build would be lost). 
+#### The results 
+The docs I created provide very useful info, including concepts and critical details that you could only appreciate when actually trying to use a complex system like AD that was still under development (for example, in one dialog if you left a space after an entry the system would crash and your project that took 3-4 hours to build would be lost). 
 
-Why I left --- The client office was in a beautiful building on the banks of the Rhein river, and I lived 5 minutes by bike in a converted abbey. The office atmosphere was very socialable and friendly. It was one of the most pleasant places I have ever worked. And my employer Goetz und Weise was the best.  But AD was still in development and was quite a challenge to use. It would be years before the product was ready for beta release. And I had basically hit the wall with AD; it was so complicated to do the most basic things that without a lot of help from the PM's I did not see how I could make much more progress. I asked many times to move to the office where the program/product managers were located, but this was not going to happen. Finally, there were several new writers who took the traditional approach to documenting such a system (lots of text and no examples), and it seemed that the client was quite satisfied with that approach. It was time to move on, and G&W did not have a different project for me. 
+<!-- Why I left --- The client office was in a beautiful building on the banks of the Rhein river, and I lived 5 minutes by bike in a converted abbey. The office atmosphere was very socialable and friendly. It was one of the most pleasant places I have ever worked. And my employer Goetz und Weise was the best.  But AD was still in development and was quite a challenge to use. It would be years before the product was ready for beta release. And I had basically hit the wall with AD; it was so complicated to do the most basic things that without a lot of help from the PM's I did not see how I could make much more progress. I asked many times to move to the office where the program/product managers were located, but this was not going to happen. Finally, there were several new writers who took the traditional approach to documenting such a system (lots of text and no examples), and it seemed that the client was quite satisfied with that approach. It was time to move on, and G&W did not have a different project for me.  -->
    
      
 ### 21_FGX_UG.pdf
