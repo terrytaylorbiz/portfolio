@@ -25,31 +25,36 @@ The docs I created provide very useful info, including concepts and critical det
      
 ### 21_FGX_UG.pdf
 
-** Please note: (1) 21_FGX_UG.pdf was created from single-source source files. We created almost 15 different versions of this doc just for the English version (we also had Japanese and Chinese versions). Therefore there may be some diagrams or text with small formatting or alignment problems. Also, all diagrams and screenshots were modified to minimize the resulting PDF file size (the resulting PDF file size is rather small for such a large doc with so many diagrams). The priority was creating a lot of info with limited resources for very technical readers. We accomplished that. (2) The other team members were non-native speakers of English, so you may find some grammar mistakes.
+Note ####
+(1) 21_FGX_UG.pdf was created from single-source source Framemaker files. There were 15 different versions of this doc just for the English version (there were also Japanese and Chinese versions). Therefore there may be some diagrams or text with small formatting or alignment problems. 
+(2) Diagrams and screenshots were modified to minimize the resulting PDF file size. T
+(3) The mission was to create a lot of info with limited resources for very technical readers (mission accomplished).
+(4) The other team members who sometimes modified English content were non-native speakers of English.
 
-The product --- The product was a firewall/router that was sold under several brand names. The documentation was released in English, Japanese and Chinese.
+#### The product
+The product was a firewall/router that was sold under several brand names. The documentation was released in English, Japanese and Chinese.
 
-The task --- I was the documentation manager for a group of seven. 
+#### The task
+I was the documentation manager for a group of seven. 
 
-The challenges ---
+#### The challenges
 1. The existing docs had a great deal of text but provided little useful info.  
 2. The doc and help sources were separate files. The files were scattered throughout the file system. There were many copies and no version tracking.
-3. The program/product managers were located in a different city.
-4. The working atmosphere within the team was a bit unpleasant.
+3. The program/product managers were in Beijing (I was in Shenyang).
 
-My activities ---
-1. I created a very friendly American-style work atmosphere. The doc manager that I replaced was not the most effective manager or pleasant person to work with (the other colleagues were afraid of him). He resigned a few months after my arrival.
-2. I deleted 40% of the existing user guide. The deleted text was useless text used to fill up the doc to give the impression that the writers were productive. They had plagiarized text from textbooks and other sources (I could tell from the perfect English). I cleaned up and reorganized the remaining text, added all the screenshots and diagrams, and then added most of the existing text (the team members were primarily busy maintaining the Chinese and Japanese versions of the doc). I installed the router-firewall in a VM on my laptop and started hands-on self study. I had limited experience with industrial grade router-firewalls. I spent a lot of time studying competitors' products and documentation (Juniper, etc.) and reading RFC's.
-3. I drastically increased team productivity. I simplified my colleagues' work by converting the existing documentation to single-source. Originally the PDF sources were Framemaker and the HELP sources were MS Word. There was a separate set of .fm/.doc files for different customer versions (the example you can download is branded for FGX, an Asian customer). I configured the FM files (using imported formats and variables) to create the required PDF, HELP, and customer versions from a single set of source files. This worked flawlessly (I still have the source files).
+#### My activities
+1. I created a very friendly American-style work atmosphere.
+2. I create original content. I deleted 40% of the existing user guide. The deleted text was useless text used to fill up the doc to give the impression that the writers were productive. They had plagiarized text from textbooks and other sources (I could tell from the perfect English). I cleaned up and reorganized the remaining text, added all the screenshots and diagrams, and then added most of the existing text (the team members were primarily busy maintaining the Chinese and Japanese versions of the doc). I installed the router-firewall in a VM on my laptop and started hands-on self study. I had limited experience with industrial grade router-firewalls. I spent a lot of time studying competitors' products and documentation (Juniper, etc.) and reading RFC's.
+3. I drastically increased team productivity. I simplified my team members' tasks by converting the existing documentation to single-source. Originally the PDF sources were Framemaker and the HELP sources were MS Word. There was a separate set of .fm/.doc files for different customer versions (the example you can download is branded for FGX, an Asian customer). I configured the FM files (using imported formats and variables) to create the required PDF, HELP, and customer versions from a single set of source files. This worked flawlessly (I still have the source files).
 
-The results ---
-1. The team spent most of their time creating original content (creating the single-source content was easy).
-2. Several team members could manage the Framemaker single-source projects. There were very few problems (it was a clean design). 
-
-Why I left --- It was a great experience. In particular my Chinese manager and the team were very friendly and helpful. But I left because of the following reasons.
+#### The results
+1. The team spent most of their time creating content.
+2. The team members were able to manage the Framemaker single-source system that I had configured.
+   
+<!-- Why I left --- It was a great experience. In particular my Chinese manager and the team were very friendly and helpful. But I left because of the following reasons.
 1. After a year and half, one of the project/product managers from Beijing actually came by to talk to me (I had sent emails to 3 PM's for a year and never received a reply). I was so happy that I might finally be included in their team discussions. He just wanted to ask me if I could teach his kid English.
 2. The company would not confirm if they would offer me a new contract until two months before my existing contract expired. My visa to stay in China was with this company, so if they did not offer a new contract, I probably would have had to return to the USA to get a new visa.
-3. We had a small earthquake. Such an event made me think twice about spending so much time in a very large office building of obviously low construction quality.     
+3. We had a small earthquake. Such an event made me think twice about spending so much time in a very large office building of obviously low construction quality.     -->
    
    
 ### 31_cit_doc_processes.pdf, 32/33_scqc_install_config_RELEASE/TRAINING.pdf         
