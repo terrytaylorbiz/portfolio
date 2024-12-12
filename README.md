@@ -2,7 +2,7 @@ I wrote the documents in this portfolio. The concepts, design and content are my
 
 ### 11_AD_GS_partial.pdf 
 
-Note: This doc was created in a Siemens doc tool. I had little control over the pic formats, so the resulting PDF was very large. Git complained, so I deleted half of the doc.
+Note: This doc was created with a Siemens doc tool. I had little control over the pic formats, so the resulting PDF was very large. Git complained, so I deleted half of the doc.
 
 The product was Automation Designer, a PLM product that connected NX, EPLAN (electrical schematics) and TIA (PLC programming). I wrote the installation guides and user guides. 
 
