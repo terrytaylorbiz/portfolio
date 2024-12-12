@@ -79,7 +79,7 @@ Mynd developed frameworks for Java and Smalltalk.
 I wrote the original docs.
 
 #### The challenges
-The challenges were all technical. Mynd was one of the best company I ever worked for.
+The product was technically quite challenging.
 
 <!-- Why I left --- Mynd USA bought PMS Micado Germany which became Mynd Germany. Mynd's fortunes took a turn for the worse, the projects were drying up, so I moved on. -->
 
