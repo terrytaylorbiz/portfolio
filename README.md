@@ -1,4 +1,4 @@
-I wrote the following documents. The design, structure, and content are my own. The target audience was technical and the focus was on useful, accurate content with a minimum of text and diagrams. I also have "internal" versions of these docs that have a lot more background info, tech notes, etc. 
+I wrote the documents in this portfolio. The concepts, design and content are my own. The target audiences were technical and the focus was on useful, accurate content with a minimum of text and diagrams. I also have internal versions of these documents with background info, tech notes, etc. 
 
 ### 11_AD_GS_partial.pdf 
 
