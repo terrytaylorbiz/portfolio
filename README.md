@@ -25,7 +25,7 @@ The docs I created provide very useful info, including concepts and critical det
      
 ### 21_FGX_UG.pdf
 
-Note ####
+Note:
 (1) 21_FGX_UG.pdf was created from single-source source Framemaker files. There were 15 different versions of this doc just for the English version (there were also Japanese and Chinese versions). Therefore there may be some diagrams or text with small formatting or alignment problems. 
 (2) Diagrams and screenshots were modified to minimize the resulting PDF file size. T
 (3) The mission was to create a lot of info with limited resources for very technical readers (mission accomplished).
