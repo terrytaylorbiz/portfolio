@@ -66,9 +66,9 @@ At HP Shanghai one of my tasks was to document a "synchronizer". The synchronize
 I setup SC, QC, and the synchronizer in a VM on my own laptop. I then created example synchronization configurations and documented in detail. I tagged Framemaker text so that I could create a release and internal version of the document from the same source files. 
 
 #### The results
-- The release version is 02_scqc_install_config_RELEASE.pdf.
-- I used the internal version 03_scqc_install_config_TRAINING.pdf to demonstrate synchronizer installation/configuration at HP.
-- I also wrote 01_cit_doc_processes.pdf. This doc describes how I converted a very complex doc project that was run on a VM in Paris to work on a local machine
+- 01_cit_doc_processes.pdf describes how I converted a very complex doc project that was run on a VM in Paris to work on a local machine
+- 02_scqc_install_config_RELEASE.pdf is a release version for end customers.
+- 03_scqc_install_config_TRAINING.pdf was used to demonstrate synchronizer installation/configuration at HP.
 
 ### 41_fw.pdf, 42_afw.pdf, 43_pfw.pdf, 44_obf.pdf, 45_fwj.pdf         
 
