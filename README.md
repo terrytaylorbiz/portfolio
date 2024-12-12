@@ -59,23 +59,28 @@ I was the documentation manager for a group of seven.
    
 ### 31_cit_doc_processes.pdf, 32/33_scqc_install_config_RELEASE/TRAINING.pdf         
 
-The task --- At HP Shanghai one of my tasks was to document a "synchronizer". The synchronizer was a program that would synchronize  database updates in systems A and B. My task was to document in detail how to configure a synchronizer between Service Center (SC) and Quality Center  (QC). 
+#### The task
+At HP Shanghai one of my tasks was to document a "synchronizer". The synchronizer was a program that would synchronize database updates between 2 systems. My task was to document in detail how to configure a synchronizer between Service Center (SC) and Quality Center (QC). 
 
-My activities --- I found a developer who helped me setup SC, QC, and the synchronizer in a VM on my own laptop. I then created  an example synchronization configurations and documented in detail. I tagged Framemaker text so that I could create a release and internal version of the document from the same source files. 
+#### My activities
+I setup SC, QC, and the synchronizer in a VM on my own laptop. I then created example synchronization configurations and documented in detail. I tagged Framemaker text so that I could create a release and internal version of the document from the same source files. 
 
-The results --- The release version is 02_scqc_install_config_RELEASE.pdf. I used the internal version 03_scqc_install_config_TRAINING.pdf to demonstrate synchronizer installation/configuration at HP. I installed all software on my PC and created the simple examples myself.
-
-I also wrote 01_cit_doc_processes.pdf. I inherited a very complex doc project that was run on a VM in Paris. I converted this project to work on a local machine. This doc describes how to switch to a new doc system.
-
+#### The results
+- The release version is 02_scqc_install_config_RELEASE.pdf.
+- I used the internal version 03_scqc_install_config_TRAINING.pdf to demonstrate synchronizer installation/configuration at HP.
+- I also wrote 01_cit_doc_processes.pdf. This doc describes how I converted a very complex doc project that was run on a VM in Paris to work on a local machine
 
 ### 41_fw.pdf, 42_afw.pdf, 43_pfw.pdf, 44_obf.pdf, 45_fwj.pdf         
 
-The product --- Mynd was developing frameworks for Java and Smalltalk.
+#### The product
+Mynd developed frameworks for Java and Smalltalk.
 
-The task --- My job was to write the original docs.
+#### The task
+I wrote the original docs.
 
-The challenges --- There were few challenges, except for learning the software. Mynd was probably the best company I ever worked for.
+#### The challenges
+The challenges were all technical. Mynd was one of the best company I ever worked for.
 
-Why I left --- Mynd USA bought PMS Micado Germany which became Mynd Germany. Mynd's fortunes took a turn for the worse, the projects were drying up, so I moved on.
+<!-- Why I left --- Mynd USA bought PMS Micado Germany which became Mynd Germany. Mynd's fortunes took a turn for the worse, the projects were drying up, so I moved on. -->
 
 --------------------------------------------------------------
